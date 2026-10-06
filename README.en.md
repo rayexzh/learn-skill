@@ -18,8 +18,9 @@ My starting knowledge is [level], and I have [time] per day.
 My goal is to independently complete [task].
 ```
 
-- Specific skills and everyday topics default to the short route.
-- Say “full ten steps” for unfamiliar fields or contested research questions.
+- Systematic learning of a new topic, skill, or industry defaults to all ten steps, starting with five AI-simulated perspectives that respond to one another and shape the learning route.
+- Default perspectives: practitioner, scholar, skeptic, economist, historian; make them concrete or replace unsuitable roles for the topic.
+- Single questions, operations, and explicit quick-learning requests use the short route.
 - During learning, say “too hard,” “review only,” “continue,” or “pause and give me a continuation note.”
 
 ## Mastery checks
