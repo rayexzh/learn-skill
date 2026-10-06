@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learning Skill"
+  short_description: "Learn through practice, feedback, independent tasks, and review"
+  default_prompt: "Use $learn to teach me a topic: establish my goal and starting level, practice one question at a time, and check independent performance."

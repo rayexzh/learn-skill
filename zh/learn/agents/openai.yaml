@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习 Skill"
+  short_description: "用逐题练习、复述反馈和独立任务检查学习，配合间隔复习巩固掌握"
+  default_prompt: "用 $learn 带我学习一个主题，先明确目标和基础，再一次一道题地练习，最后检验独立完成能力。"
