@@ -39,12 +39,6 @@ Use the short route and wait for my answer to each question.
 
 Tenfold speed is not promised. The whole workflow has not been experimentally validated. Sources support specific components and are listed in each skill.
 
-## Attribution / 致谢
-
-流程灵感来自用户提供的“AI打工我享受”十步学习法视频：<https://www.douyin.com/video/7693006463622466825>。本项目独立编写，加入目标诊断、独立迁移任务、延迟复测与续学记录。
-
-Workflow inspiration: the ten-step learning video supplied by the user, credited above. This project is independently authored and adds goal diagnosis, independent transfer, delayed retesting, and continuation notes.
-
 ## License
 
 MIT. See [LICENSE](LICENSE). Research papers retain their own rights.
