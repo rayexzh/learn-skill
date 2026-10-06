@@ -39,18 +39,12 @@ Use the short route and wait for my answer to each question.
 
 Tenfold speed is not promised. The whole workflow has not been experimentally validated. Sources support specific components and are listed in each skill.
 
-## Video / 视频
-
-原创像素动画《学习农场：把知识种成能力》，竖屏、中文字幕、无旁白。脚本和可编辑源代码位于 [video](video/README.md)。成片是演示讲解，不是学习效果实验。
-
-Original pixel-animation explainer, *Learning Farm: grow knowledge into capability*, in portrait format with Chinese captions and no narration. See [video](video/README.md) for the script and editable project. It is an explainer, not evidence of learning effectiveness.
-
 ## Attribution / 致谢
 
-流程灵感来自用户提供的“AI打工我享受”十步学习法视频：<https://www.douyin.com/video/7693006463622466825>。本项目独立编写，加入目标诊断、独立迁移任务、延迟复测与续学记录。像素角色和场景为原创程序绘制；未使用参考视频画面或 Minecraft / Stardew Valley 游戏素材。
+流程灵感来自用户提供的“AI打工我享受”十步学习法视频：<https://www.douyin.com/video/7693006463622466825>。本项目独立编写，加入目标诊断、独立迁移任务、延迟复测与续学记录。
 
-Workflow inspiration: the ten-step learning video supplied by the user, credited above. This project is independently authored and adds goal diagnosis, independent transfer, delayed retesting, and continuation notes. Pixel characters and scenes are original procedural drawings; no footage from the reference video or assets from Minecraft or Stardew Valley are included.
+Workflow inspiration: the ten-step learning video supplied by the user, credited above. This project is independently authored and adds goal diagnosis, independent transfer, delayed retesting, and continuation notes.
 
 ## License
 
-MIT. See [LICENSE](LICENSE). Research papers retain their own rights. Font dependencies used for rendering are not redistributed here.
+MIT. See [LICENSE](LICENSE). Research papers retain their own rights.
