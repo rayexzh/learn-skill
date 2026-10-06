@@ -34,8 +34,12 @@ Use the short route and wait for my answer to each question.
 
 ## Two routes / 两条路线
 
+系统学习新主题默认完整十步，从五视角讨论开始；单个问题或明确要求快速学习时走精简路线。
+
+Systematic learning defaults to the full route, starting with five perspectives. Use the short route for a single question or an explicit quick-learning request.
+
 - **精简 / Short:** goal → example → practice → feedback → explanation → independent transfer → delayed review.
-- **完整 / Full:** perspectives → disagreements → brief → evidence → resources → ladder → core task → retrieval → explanation → reference sheet, followed by independent transfer and delayed review.
+- **完整 / Full:** five-perspective discussion → disagreements → brief → evidence → resources → ladder → core task → retrieval → explanation → reference sheet, followed by independent transfer and delayed review.
 
 Tenfold speed is not promised. The whole workflow has not been experimentally validated. Sources support specific components and are listed in each skill.
 
